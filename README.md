@@ -19,10 +19,8 @@ Run the project using following sequence
 
 - Run Create_Python_Script.ipynb
 - Run Create_Job_Submission_Script.ipynb
-
-**Run test code particular scenerio**
-
-- Manufacturing_Scenario.ipynb
-- Retail_Scenario.ipynb
-- Transportation_Scenario.ipynb
+- Run test code particular scenerio
+  - Manufacturing_Scenario.ipynb
+  - Retail_Scenario.ipynb
+  - Transportation_Scenario.ipynb
 
